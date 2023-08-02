@@ -64,7 +64,7 @@ our_member:
   list:
     - name: Linahun
       field: Server Admin
-      image: /images/Lina channel logo.png
+      image: /images/Lina Channel Logo.png
     - name: Jay Dee
       field: Server Admin
       image: /images/Jay Dee Logo.png
