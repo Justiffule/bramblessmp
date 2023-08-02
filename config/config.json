@@ -2,7 +2,7 @@
   "site": {
     "title": "BramblesSMP",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/logo.png",
     "logo": "/images/LargeLogo.svg",
     "logo_width": "314",
     "logo_height": "126",
