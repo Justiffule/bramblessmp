@@ -25,7 +25,7 @@ features:
   list:
     - icon: 'lock' # feather icon: https://feathericons.com/
       title: Territories
-      content: In Brambles SMP there are 3 server owner territories. There is The Canis Alliance run by Jay Dee, Asland which is run by Linahun and The Legion of Kayoss which is run by Taz.
+      content: In Brambles SMP there are 3 server owner territories. There is The Canis Alliance which is run by Jay Dee, Asland which is run by Linahun and The Legion of Kayoss which is run by Taz.
     - icon: 'dollar-sign'
       title: New Currantcy
       content: On Brambles we thought it was necessary to bring in a different system for currency due to the 1.20 diamond changes. There will be multiple ways to obtain Currantcy. The primary way is through trading!
