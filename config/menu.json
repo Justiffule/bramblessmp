@@ -1,0 +1,34 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "https://www.bramblessmp.com"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Events",
+      "url": "/events"
+    },
+    {
+      "name": "Coming Soon",
+      "url": "/soon"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Home",
+      "url": "https://www.bramblessmp.com"
+    },
+    {
+      "name": "Events",
+      "url": "/events"
+    }
+  ]
+}

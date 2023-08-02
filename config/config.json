@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "BramblesSMP",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/Largelogo.svg",
+    "logo_width": "314",
+    "logo_height": "126",
+    "logo_text": "BramblesSMP"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "🌿 Welcome to Brambles SMP! 🌿",
+    "copyright": "© Justiffule"
+  },
+
+  "contact_info": {
+    "phone": "",
+    "email": "BramblesSMP@outlook.com",
+    "location": "https://discord.gg/nPGBAV8cdD"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Official Discord",
+    "link": "https://discord.gg/nPGBAV8cdD"
+  },
+
+  "metadata": {
+    "meta_author": "Justiffule",
+    "meta_image": "/images/logo.png",
+    "meta_description": "BramblesSMP-light Nextjs"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "BramblesSMP Offical Site",
+    "content": "🌿 Welcome to Brambles SMP! A Survival Minecraft Server! 🌿npm ",
+    "button": {
+      "label": "Live",
+      "link": "#"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "",
+    "settings": {}
+  }
+}
