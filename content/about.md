@@ -16,7 +16,7 @@ requirements:
   title: How Do I Join?
   list:
     - title: For Linahun Followers
-      content: If you have 3 months of non-gifted subscription on Twitch to Linahun and redeem 5000 channel points during stream. Alternatively, Lina has a Patreon as well! We hope to see you on Brambles SMP!
+      content: If you have 3 months of non-gifted subscription on Twitch to Linahun and redeem 5000 channel points during stream. Alternatively, Lina has a Patreon as well! There is also a 15,000 channel point redemption if you don't meet the afformentioned requirements.
     - title: For Jay Dee Followers
       content: Must be an Iron Patreon or have a channel membership on YouTube. 3 months of non-gifted Twitch subscription and 5000 channel point redemption will also get you onto the Brambles SMP!
     - title: For Kayoss Taz Followers
