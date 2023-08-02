@@ -240,7 +240,7 @@ const Home = ({ banner, brands, features, intro, speciality, special_mention }) 
                 type: "bullets",
                 el: paginationRef.current,
                 clickable: true,
-                dynamicBullets: true,
+                dynamicBullets: false,
               }}
               // autoplay={{ delay: 3000 }}
               onBeforeInit={(swiper) => {
