@@ -49,7 +49,7 @@ speciality:
     description: When the cataclysm occurred, people from my country scattered trying to save what possessions they could along with their own lives. Some banded together to travel to distant lands while hoping to avoid the dangerous enemies that seemed to appear from nowhere. I had travelled for a couple of months - down rivers, over mountains, through forests and across wide plains before finding a place that I felt was far enough away from the dangers I had left behind. There was a mystical watch tower in this area, yet no sign of who had constructed it. It was in pristine condition, yet surprisingly empty of any furnishings.
     image: /images/Linahunlion.png
   secondary:
-    title: Cannis Alliance
+    title: Canis Alliance
     subtitle: JAY DEE
     description: The monsters appeared one night after the cataclysm not long ago. The days and weeks became difficult to track, as my village was ransacked. We lost too many people. That’s when we set out to contact our neighbouring villages so we could band together and make a stand in a central area. One night during our trek, a mob of these monsters surrounded us, but my three wolves, Mickey, Sirius, and Procyon fought them off. After this, I was known as Jay Dee the Protector, and thus the Canis Alliance was born.
 
