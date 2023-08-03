@@ -27,7 +27,7 @@ requirements:
 ## the territories
 admin_territory:
   subtitle: THREE TERITORIES
-  title: How Do Asland, Cannis Alliance, and Legion of Kayoss Know Each Other?
+  title: How Do Asland, Canis Alliance, and Legion of Kayoss Know Each Other?
   content: The Canis Alliance is a newly formed territory in these lands. The people who existed here for many decades had heard of a cataclysm in a distant country. Soon after, destructive enemies appeared during the night and the people decided to band together to form an Alliance for protection. A month or so after... Travellers began arriving in the area. Some came in large groups, others as individuals or families. They were all seeking one thing, to escape the destruction created by the monsters that had appeared due to the cataclysm... Soon there were new territories rising up as people settled in this area. Two new territories to the south and east were quickly built up, The Legion of Kayoss and Asland
   image: /images/BramblesSpawnVillage.png
 
