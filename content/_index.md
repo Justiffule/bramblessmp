@@ -52,8 +52,7 @@ speciality:
     title: Canis Alliance
     subtitle: JAY DEE
     description: The monsters appeared one night after the cataclysm not long ago. The days and weeks became difficult to track, as my village was ransacked. We lost too many people. That’s when we set out to contact our neighbouring villages so we could band together and make a stand in a central area. One night during our trek, a mob of these monsters surrounded us, but my three wolves, Mickey, Sirius, and Procyon fought them off. After this, I was known as Jay Dee the Protector, and thus the Canis Alliance was born.
-
-    image: /images/logo.png
+    image: /images/JayDeeWolf.png
   tertiary:
     title: Legion of Kayoss
     subtitle: KAYOSS TAZ
